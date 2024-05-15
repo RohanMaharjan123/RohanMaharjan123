@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/nahor_uzumaki" target="blank"><img src="https://img.shields.io/twitter/follow/nahor_uzumaki?logo=twitter&style=for-the-badge" alt="nahor_uzumaki" /></a> </p>
 
-- 🔭 I’m currently working on [Laravel](https://github.com/RohanMaharjan123/Laravel_E-commerce_Project)
+- 🔭 I’m currently working on [TypeScript]([https://github.com/RohanMaharjan123/TypeScript])
 
-- 🌱 I’m currently learning **Laravel, Blade, Mysql**
+- 🌱 I’m currently learning **Mongo, Express, React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/RohanMaharjan123](https://github.com/RohanMaharjan123)
 
 - 📝 I write articles on [https://medium.com/@rohanmaharjan_49363](https://medium.com/@rohanmaharjan_49363)
 
-- 💬 Ask me about **Laravel**
+- 💬 Ask me about **MERN**
 
 - 📫 How to reach me **maharjan.rohan@icloud.com**
 
