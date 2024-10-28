@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://x.com/NahorUzumaki" target="blank"><img src="https://img.shields.io/twitter/follow/nahor_uzumaki?logo=twitter&style=for-the-badge" /></a> </p>
 
-- 🔭 I’m currently working on [Docker](https://github.com/RohanMaharjan123/LearningDocker) & [React] (https://react.dev)
+- 🔭 I’m currently working on [Docker](https://github.com/RohanMaharjan123/LearningDocker) & [React](https://react.dev)
 
 - 🌱 I’m currently learning **Mongo, Express, React**
 
