@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **MERN**
 
-- 📫 How to reach me **maharjan.rohan@icloud.com**
+- 📫 How to reach me **nahor.uzamaki@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
