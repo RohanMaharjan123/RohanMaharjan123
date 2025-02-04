@@ -6,9 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohanmaharjan123&label=Profile%20views&color=0e75b6&style=flat" alt="rohanmaharjan123" /> </p>
 
----
-[![](https://visitcount.itsvg.in/api?id=rohanmaharjan123&icon=0&color=0)](https://visitcount.itsvg.in)
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=rohanmaharjan123&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
