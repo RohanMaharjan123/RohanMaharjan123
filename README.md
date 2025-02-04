@@ -13,7 +13,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=rohanmaharjan123&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
-- 🔭 I’m currently working on [React](https://react.dev) & [NEXTJS]([https://github.com/RohanMaharjan123/LearningDocker](https://nextjs.org/docs) &<br><br>
+- 🔭 I’m currently working on [React](https://react.dev) & [NEXTJS]((https://nextjs.org/docs))<br><br>
 - 🌱 I’m currently learning **Mongo, Express, React**<br><br>
 - 👨‍💻 All of my projects are available at [https://github.com/RohanMaharjan123](https://github.com/RohanMaharjan123)<br><br>
 - 📝 I write articles on [https://medium.com/@rohanmaharjan_49363](https://medium.com/@rohanmaharjan_49363)<br><br>
