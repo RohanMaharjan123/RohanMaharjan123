@@ -11,7 +11,7 @@
 
 
 - 🔭 I’m currently working on [React](https://react.dev) & [NEXTJS](https://nextjs.org/docs)<br><br>
-- 🌱 I’m currently learning **Mongo, Express, React**<br><br>
+- 🌱 I’m currently learning **React, NEXTJS, Shadcn**<br><br>
 - 👨‍💻 All of my projects are available at [https://github.com/RohanMaharjan123](https://github.com/RohanMaharjan123)<br><br>
 - 📝 I write articles on [https://medium.com/@rohanmaharjan_49363](https://medium.com/@rohanmaharjan_49363)<br><br>
 - 💬 Ask me about **MERN & Python**<br><br>
@@ -86,7 +86,7 @@
 # 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=rohanmaharjan123&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br/>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-6159w4sb1-rohanmaharjan123s-projects.vercel.app?user=rohanmaharjan123&theme=radical" alt="GitHub Streak" /></a> <br/>
+[![GitHub Streak](https://github-readme-streak-stats-6159w4sb1-rohanmaharjan123s-projects.vercel.app?user=rohanmaharjan123&theme=radical)](https://git.io/streak-stats)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rohanmaharjan123&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
