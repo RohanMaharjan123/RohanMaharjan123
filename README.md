@@ -17,7 +17,8 @@
 - 🌱 I’m currently learning **Mongo, Express, React**<br><br>
 - 👨‍💻 All of my projects are available at [https://github.com/RohanMaharjan123](https://github.com/RohanMaharjan123)<br><br>
 - 📝 I write articles on [https://medium.com/@rohanmaharjan_49363](https://medium.com/@rohanmaharjan_49363)<br><br>
-- 💬 Ask me about **MERN & Python**<br><br>- 📫 How to reach me **nahor.uzamaki@gmail.com**<br>
+- 💬 Ask me about **MERN & Python**<br><br>
+- 📫 How to reach me **nahor.uzamaki@gmail.com**<br>
 
 ## 🌐 Socials:
 
@@ -36,6 +37,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nahor.uzamaki@gmail.com)
 
 # 💻 Tech Stack:
+
 ## 🖥️ Languages
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
@@ -47,6 +49,7 @@
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
 
 ## 🚀 Frameworks & Libraries
+
 ### JavaScript/TypeScript
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
