@@ -86,7 +86,7 @@
 # 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=rohanmaharjan123&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br/>
-[![GitHub Streak](https://github-readme-streak-stats-6159w4sb1-rohanmaharjan123s-projects.vercel.app?user=rohanmaharjan123&theme=radical)](https://git.io/streak-stats)<br/>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rohanmaharjan123&?user=rohanmaharjan123&theme=radical)](https://git.io/streak-stats)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rohanmaharjan123&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact&hide=php,blade)
 
 ### ✍️ Random Dev Quote
